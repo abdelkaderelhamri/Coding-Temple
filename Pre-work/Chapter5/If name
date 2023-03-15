@@ -1,0 +1,8 @@
+name=""
+if name == "joe":
+    print("say my name", end=" ")
+print("if no one is around say..", end=" ")
+if name:
+     print("say Hi")
+else:
+  print("if you ain't..", end=" ")

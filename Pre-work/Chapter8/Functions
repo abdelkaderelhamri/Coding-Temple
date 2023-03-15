@@ -1,0 +1,6 @@
+def greet_user():
+    """Display a simple greeting."""
+    return("Hello!")
+
+greet_user()
+#print(greet_user())
